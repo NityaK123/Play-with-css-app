@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.playcss{
+  width:20vw;
+}
+
+.bgColor{
+  background-color:rgb(170, 156, 231) !important;
+  position: sticky !important;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-link:hover{
+  background-color: aqua;
+  color:rgb(191, 14, 170) !important; 
+}
+
+.containerMain{
+  background-color: #081d46;
+  width:100vw;
+  margin:0;
+  color:white;
+}
+
+.devHunt{
+  width:20vw;
+  border:none;
+  background-color: #0a0a0a;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.devHunt > img{
+   width:20vw;
+}
+
